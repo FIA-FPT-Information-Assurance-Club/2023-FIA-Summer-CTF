@@ -1,0 +1,1 @@
+FLAG: FIA{LSB_3ncrypt10n_plus_cl4ss1cal_SSTV_1s_str0ng_r1ght?}
