@@ -1,0 +1,1 @@
+It seem that Doofy has gone forever. Due to his final words, you will know what to do next.

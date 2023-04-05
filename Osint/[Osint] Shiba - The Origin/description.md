@@ -1,0 +1,3 @@
+After the death of the previous enemy in the jail. Although he had returned to his daily life, Shiba knew that the death was not normal, and some force had begun to act. To avoid trouble coming back to the young master's family, Shiba decided to take action. Following the clues and returning to the origin of everything, Shiba returned to "The dog market" to find the person who sold him to search for more information. However, that place had disappeared without a trace. The only thing left in Shiba's memory was the name of the seller, Doofy Sheperd.
+
+Note: 3 flags in this Osint series will stay somewhere on the internet with the format FIA{something_is_here}. Do your investigation to find them.
