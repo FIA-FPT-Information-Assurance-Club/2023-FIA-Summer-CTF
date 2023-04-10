@@ -1,0 +1,9 @@
+version: "3.6"
+services:
+  php-ngu-vl:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "303:80"
+    volumes:
+      - ./src:/var/www/html
