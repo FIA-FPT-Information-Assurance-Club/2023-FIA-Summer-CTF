@@ -1,6 +1,7 @@
 FROM vulfocus/webmin-cve_2021_31760
 
 RUN apt-get install -y sudo
+RUN apt-get remove -y wget
 
 # Create a new normal user without sudo permission
 RUN useradd -m myuser && \
