@@ -1,0 +1,1 @@
+Bory has been hacked by FIA Kingdom. He cried hmu hmu since his laptop infected by a straight malware that FIA give to him. He need your help to unlock his secret file called "flag.txt"
