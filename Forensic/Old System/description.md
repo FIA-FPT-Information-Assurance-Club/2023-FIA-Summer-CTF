@@ -1,4 +1,4 @@
-The professor was working when his computer suddenly stopped. He couldn't do anything, so he asked Carl, an IT helpdesk, to help him get the question file on his computer for the upcoming exam. Because he was too busy, he just left the computer,
-told the status of the machine and left. Can you help Carl?
+I have a final test next week but my machine seem to be broken down, can you fix it for me ?
+Here is the password: 1_must_s33_y0u_cry
 
 Flag format: FIA{th1ng_y0u_f0und}
