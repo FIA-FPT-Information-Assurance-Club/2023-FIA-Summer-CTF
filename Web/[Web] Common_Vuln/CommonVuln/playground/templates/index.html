@@ -73,12 +73,22 @@
 </head>
 
 <body>
+  <!-- 
+        CREATE TABLE `users` (
+        `id` int(11) NOT NULL AUTO_INCREMENT,
+        `username` varchar(100) NOT NULL,
+        `password` varchar(40) NOT NULL,
+        );
+  -->
   <h1 style="text-align:center">Send your feedback</h1>
   <div class="login-form">
-    <div style="">
+    <div>
       <label for="username">Enter Employee Username: </label>
       <input type="text" id="username" name="username">
       <button id="checkbtn" onclick="checkUsername()">Check</button>
+      <!-- 
+        SELECT * FROM users WHERE username = '$username';
+       -->
     </div>
     <div style="display:none" id="feedback-form">
       <label for="feedback">Your Feedback: </label>
