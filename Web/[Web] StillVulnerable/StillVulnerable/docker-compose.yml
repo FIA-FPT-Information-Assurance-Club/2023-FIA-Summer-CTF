@@ -1,0 +1,8 @@
+version: '3'
+
+services:
+  bookshelf:
+    build: ./fia-bookshelf
+    restart: unless-stopped
+    ports:
+      - "13044:8080"
