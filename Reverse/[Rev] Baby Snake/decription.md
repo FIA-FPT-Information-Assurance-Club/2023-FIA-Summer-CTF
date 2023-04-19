@@ -1,0 +1,1 @@
+It has been long time i have not played this game. It is so nostalgic.
