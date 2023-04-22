@@ -1,0 +1,1 @@
+I just discovered this new cryptosystem. Can you help me do a provable security analysis of it?

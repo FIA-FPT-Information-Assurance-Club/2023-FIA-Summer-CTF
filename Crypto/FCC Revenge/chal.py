@@ -21,7 +21,7 @@ def checkresult(dealer_num, next_num):
     
 
 current_time = time.time()
-# Better seed mean better random. Or there is another way?
+# Better seed mean better random? Or is there another way?
 random.seed(bytes_to_long(os.urandom(8)))
 
 print("""

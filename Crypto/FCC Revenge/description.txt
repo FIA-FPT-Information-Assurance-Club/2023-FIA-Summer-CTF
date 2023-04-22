@@ -1,0 +1,3 @@
+After the last mistake, I decided to improve my game to become less cheesable. Hope I can make a lot of profit from my game.
+
+Note: The challenge's script only works on Python 3.10 or above.
