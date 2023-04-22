@@ -61,12 +61,12 @@ def index():
 @app.route('/api/feedback', methods=['POST'])
 def submit_feedback():
     # code to process the feedback form data
-    return redirect(url_for('thankyou'))
+    return jsonify({'status': 'success', 'message': 'Feedback submitted successfully'})
 
 
 @app.route('/thankyou')
 def thankyou():
-    return jsonify({'status': 'success', 'message': 'Feedback submitted successfully'})
+    return render_template('thankyou.html')
 
 
 if __name__ == '__main__':
