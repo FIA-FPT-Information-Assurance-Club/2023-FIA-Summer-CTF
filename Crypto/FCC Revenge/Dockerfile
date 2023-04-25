@@ -9,7 +9,7 @@ RUN pip install timezones
 RUN pip install pycryptodome
 ENV TZ="Asia/Ho_Chi_Minh"
 
-ENV PORT 1338
+ENV PORT 3002
 ENV FILE_NAEM chal.py
 
 COPY $FILE_NAEM .
