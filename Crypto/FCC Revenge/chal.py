@@ -25,7 +25,7 @@ current_time = time.time()
 random.seed(bytes_to_long(os.urandom(8)))
 
 print("""
-_  _ ___    _       __ ___       _     _         _  
+ _  _ ___    _       __ ___       _     _         _  
 |_ |_) |    /   /\  (_   |  |\ | / \   /  |  | | |_) 
 |  |   |    \_ /--\ __) _|_ | \| \_/   \_ |_ |_| |_) 
                                                   
