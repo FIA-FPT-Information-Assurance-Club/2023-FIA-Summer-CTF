@@ -20,7 +20,6 @@ def checkresult(total):
 
 current_time = time.time()
 random.seed(round(current_time))
-print(current_time)
 
 print("""
  _  _ ___    _       __ ___       _     _         _  
