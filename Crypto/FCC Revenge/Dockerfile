@@ -10,9 +10,9 @@ RUN pip install pycryptodome
 ENV TZ="Asia/Ho_Chi_Minh"
 
 ENV PORT 3002
-ENV FILE_NAEM chal.py
+ENV FILE_NAME chal.py
 
-COPY $FILE_NAEM .
+COPY $FILE_NAME .
 COPY flag.txt .
 
-CMD socat -T20 -dd -v -v TCP-LISTEN:$PORT,reuseaddr,fork EXEC:'python3 '$FILE_NAEM',pty,stderr,setsid,sigint,sane'
+CMD socat -T20 -dd -v -v TCP-LISTEN:$PORT,reuseaddr,fork EXEC:'python3 '$FILE_NAME',pty,stderr,setsid,sigint,sane'
