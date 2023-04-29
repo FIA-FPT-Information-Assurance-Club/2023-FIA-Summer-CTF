@@ -5,5 +5,5 @@ services:
     volumes:
       - ./www:/var/www/html/
     ports:
-      - 300:80
+      - 5002:80
 
