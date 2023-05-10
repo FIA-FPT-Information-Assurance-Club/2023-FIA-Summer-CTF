@@ -15,4 +15,4 @@ ENV FILE_NAME chal.py
 COPY $FILE_NAME .
 COPY flag.txt .
 
-CMD socat -T20 -dd -v -v TCP-LISTEN:$PORT,reuseaddr,fork EXEC:'python3 '$FILE_NAME',pty,stderr,setsid,sigint,sane'
+CMD socat -T20 -dd -v -v TCP-LISTEN:$PORT,reuseaddr,fork EXEC:"python3 '$FILE_NAME'"
