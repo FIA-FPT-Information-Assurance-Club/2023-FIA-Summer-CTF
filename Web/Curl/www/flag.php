@@ -3,7 +3,7 @@
 		$rm_ad = $_SERVER['REMOTE_ADDR'];
 		// echo "REMOTE_ADDR is:$rm_ad";
 		if($rm_ad == "127.0.0.1"){
-			die("Flag is : flag{402eab0713f9262de52359604a24be0f}");
+			die("Flag is : FIA{th3_d!ff3r3nc3_b3tvv3n_curl_@nd_parse_url}");
 		}
 	}
 ?>
