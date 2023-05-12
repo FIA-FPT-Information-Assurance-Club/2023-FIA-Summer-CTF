@@ -27,37 +27,84 @@ if(isset($_GET['urls'])){
 	curl_get($urls);
 }
 ?>
+
 <html>
 <head>
 <style>
-blockquote { background: #eeeeee; }
-h1 { border-bottom: solid black 2px; }
-h2 { border-bottom: solid black 1px; }
-.comment { color: darkgreen; }
-</style>
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f5f5f5;
+}
 
+blockquote {
+background-color: #eeeeee;
+padding: 10px;
+margin: 0;
+border-left: solid black 4px;
+}
+
+h1 {
+font-size: 36px;
+font-weight: bold;
+border-bottom: solid black 2px;
+margin-top: 30px;
+margin-bottom: 20px;
+text-align: center;
+}
+
+h2 {
+font-size: 24px;
+font-weight: bold;
+border-bottom: solid black 1px;
+margin-top: 25px;
+margin-bottom: 15px;
+}
+
+.comment {
+color: darkgreen;
+}
+
+.lastmod {
+font-size: 14px;
+color: #666;
+}
+
+a {
+color: #000;
+text-decoration: none;
+border-bottom: solid 2px #000;
+}
+
+a:hover {
+background-color: #000;
+color: #fff;
+}
+
+footer {
+font-size: 14px;
+color: #666;
+text-align: center;
+margin-top: 50px;
+margin-bottom: 20px;
+}
+</style>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>where is flag??!!</title>
+<title>Where is the Flag?!</title>
 </head>
 <body>
-
-
-<div align=right class=lastmod>
-Last Modified: <?php echo date(DATE_RFC822);?>
-</div>
-
-<h1>where is flag??!!</h1>
-
-<br>
-flag?!<br>
-<br>
-Try <a href="flag.php" title="flag">this</a>
-
-
+<h1>Where is the Flag?!</h1>
+<blockquote>
+  <p>Flag?!<br>
+  Try <a href="flag.php" title="Flag">this</a></p>
+</blockquote>
+<h2>Comments:</h2>
+<blockquote class="comment">
+  <p>This is a really interesting puzzle!</p>
+</blockquote>
 <hr noshade>
-<address>flag CMS~~~~</address>
+<footer>Flag CMS~~~~ | Last Modified: <?php echo date(DATE_RFC822);?></footer>
 </body>
-</html>
+</html> 
 
 <!--
 if(isset($_GET['urls'])){
