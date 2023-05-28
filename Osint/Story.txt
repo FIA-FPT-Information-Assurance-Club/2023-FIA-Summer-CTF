@@ -1,0 +1,99 @@
+Shiba - The Origin
+After the death of the previous enemy in the jail. Although he had returned to his daily life, Shiba knew that the death was not normal, and some force had begun to act. To avoid trouble coming back to the young master's family, Shiba decided to take action. Following the clues and returning to the origin of everything, Shiba returned to "The dog market" to find the person who sold him to search for more information. However, that place had disappeared without a trace. The only thing left in Shiba's memory was the name of the seller, Doofy Sheperd.
+
+Note: 3 flags in this Osint series will stay somewhere on the internet with the format FIA{something_is_here}. Do your investigation to find them.
+
+Shiba - The Headquaters
+It seem that Doofy has gone forever. Due to his final words, you will know what to do next.
+
+Shiba - The Finale
+Find what you need and end everything once and for all.
+
+(Thêm đoạn gif Say my name của breaking bad)
+
+
+Preparation:
+ - Email:
+	+ 1 cái mail của Doofy: doofyseperd111@proton.me
+	+ 1 cái mail của Tom: t0mg4rfield7117@gmail.com 
+	
+ - Wayback:
+	+ Snapshot status of deleted post on twitter
+
+ - Twitter:
+	+ Username: Doofy Sheperd
+	+ Bio: Just a dog lover
+	+ Post 1: I love this market with all my dog. Hope that they can find a wonderful family.
+	+ Post 2: This one is so clever, no wonder why boss like it so much.
+	+ Post 3: This Bull dog has the ability to reverse time, can it help me escape from this mess.
+	
+	+ Post 4 (deleted): I just want to say that... Maybe I don't have much time left. These dogs have been taken away for terrible experiments, and I just want to quietly release them. But it seems that my theft of sample 011 has made my boss suspicious. If anyone sees this message, please come to L4b0ratory, that's the name of the organization, we need to end this. But be careful...
+	
+	+ Post 5: For some personal reasons, I have decided to change the form of selling dogs to online. Hmm, there are quite a lot online sales platforms on the internet, which one should I use?
+	+ Post 6: My boss likes to eat lasagna. Maybe I should buy him one as a gift to win his favor...
+	+ Post 7: I bought this gift for my boss on Ebay. The gift looks really great, the delivery service was fast and efficient, and the buying, payment, and transaction process was also very convenient. Maybe I will continue to use it.
+	
+ - Ebay:
+	+ Username: Doofy_Sheperd
+	+ Bio: Welcome to my new home here !!! I will go out to buy some food, here is your first flag. さようなら ^^
+	+ Flag1: FIA{Th3_0rig1n_of_Shiba_1s_L4b0ratory}
+	
+ - Reddit:
+	+ Tạo một subreddit tên L4b0ratory
+	+ Cần có 2 user để đăng bài cũng như tương tác trên subreddit này (tên gì cũng được) DiamondBerkerly || pass 123456az@ | SilverRogue111 || pass 123456az@
+	+ Post 1: Welcome to L4b0ratory
+	+ Post 2: These guys from project Apple in the animu is so suck !!! || 
+		CMT:
+			Of course, we will not make mistake like them
+			Really ?
+	+ Post 3: Magic
+		CMT: 
+			Do you mean the secret magic path ?
+	+ Post 4(deleted): Oh wow i found out the magic way to the Headquarters of L4b0ratory. Wanna share ?
+		CMT: 
+			Link discord
+			Holy shit. Do not leak the info like this if you want to punish by boss :)
+			Are you crazy ?
+			Opps, i need to delete it right now for sure. But, did we have a boss ??? I haven't seen him yet.
+			He is mysterious. People often say that he has an interesting name, as if there are two personalities in one person.
+			...
+	+ Post 5: Do not post any sensitive information on this forum again or i will punish all of you !
+		CMT: sorry ...
+	+ Post 6: I didn't expect Doge to become such an internet phenomenon
+
+ - Discord:
+	+ Setup 3 channel tên lab 1,2,3
+		Lab1: Một cuộc nói chuyện nhảm nhỉ giữa 2 user nhắc về việc có thể dùng pastebin để lưu trữ nhưng thông tin bí mật => Dẫn qua Rickroll pastebin
+		Lab2: Có vẻ như phòng lab này đang được sử dụng để thí nghiệm lên mẫu vật 000. Trông nó có vẻ rất đau đớn. Không hiểu tại sao boss lại nhẫn tâm với mấy chú chó này đến vậy, trước kia ông ta đã từng rất yêu quý chúng. Nhưng bây giờ ổng ghét chúng như chó với mèo vậy.
+		Lab3: Haiz công việc này mệt quá đi. Xong vụ này chắc t sẽ nghỉ việc. Ừa chắc tao cũng thế, nghe nói thằng Doofy bị khử rồi đúng không, trông thật đáng sợ. Guff guff (hình goofy)
+	+ Setup 1 archieve bên trong có chứa thông tin về 4 mẫu vật
+		Để flag2 ở đây luôn: FIA{Nice!!!_Th3_H3adquat3rs_cont4in_l0ts_0f_s3cr3t}
+		011: Shiba Năng lực: siêu thông minh
+		000: Husky Năng lực: xxx
+		023: Bull Năng lực: quay ngược thời gian
+		002: Tom Năng lực: hóa trang
+		001: Chihuahua Năng lực: sao chép
+	+ Employee Profile
+		Doofy Sheperd
+		2 user trên reddit
+		2 user trên discord
+		Boss (tất cả thông tin đều ???)
+	+ Entertainment room
+		Chứa meme về Doge
+		Bộ phim yêu thích của boss Spider Man(phiên bản của Andrew Garfield và Tom Holland)(hint cho tên của boss)
+	+ Chat room
+		
+	+ Cần có ít nhất 2 user tương tác nhảm nhí trên discord này để đánh lừa
+ 
+ - Github:
+	+ Username: Tom Garfield
+	+ Bio: SAY MY NAME Meow Meow
+	+ Repo toàn về mèo là mèo nhưng xem lịch sử commit thì phát hiện một sự thật. Boss trước đây rất thích chó nhưng đã bị một mẫu vật 002 là con mèo Tom ám sát, sau đó nó đã dùng năng lực của mình hóa trang để cải trang thành ông boss này luôn. Vì là mèo nên nó rất ghét chó từ đó thực hiện những thí nghiệm tàn ác hơn lên lũ chó. Trước khi chết ông boss cũ đã để loại một đoạn code để kích hoạt quá trình tự hủy của L4b0ratory ở trong lịch sử commit. Dùng .patch để xem email của ổng. Gửi đoạn code này tới email của Tom sẽ nhận được flag 3 cùng một đoạn câu chuyện còn lại. rồi kết thúc.
+	
+	code: Tom_Garfile_love_dogs_not_cat
+	+ Setup autoreply mail: Flag3: FIA{Th3_Shiba_St0ry_s3r1es_FIN!}
+	
+Author Note:
+tên boss là Tom Garfield, Hint1: thích ăn lasagna || Hint2: two personalities in one person || Hint3: Bộ phim yêu thích của boss Spider Man(phiên bản của Andrew Garfield và Tom Holland)(hint cho tên của boss) || Hint5: Bây giờ ổng ghét chúng như chó với mèo vậy. || Hint6: 002 tên Tom với năng lực hóa trang
+
+shorturl.at/jBN02
