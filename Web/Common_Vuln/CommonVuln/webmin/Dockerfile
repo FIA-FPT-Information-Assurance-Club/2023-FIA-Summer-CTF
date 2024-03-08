@@ -1,6 +1,15 @@
 FROM vulfocus/webmin-cve_2021_31760
 
-RUN apt-get install -y sudo
+#RUN apt-get update
+RUN wget http://security.debian.org/debian-security/pool/updates/main/s/sudo/sudo_1.8.27-1+deb10u6_amd64.deb
+RUN wget http://security.debian.org/debian-security/pool/updates/main/g/glibc/libc6_2.28-10+deb10u2_amd64.deb
+RUN dpkg -i libc6_2.28-10+deb10u2_amd64.deb
+RUN dpkg -i sudo_1.8.27-1+deb10u6_amd64.deb
+
+RUN wget http://security.debian.org/debian-security/pool/updates/main/g/glibc/libc-bin_2.28-10+deb10u2_amd64.deb
+RUN dpkg -i libc-bin_2.28-10+deb10u2_amd64.deb
+# RUN yes "Yes, do as I say!" | apt-get remove libc-bin
+# RUN apt-get install -y sudo
 RUN apt-get remove -y wget
 
 # Create a new normal user without sudo permission
